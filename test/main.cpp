@@ -2,7 +2,7 @@
 #include "catch2/catch.hpp"
 
 
-TEST_CASE("Test example" "[demo]")
+TEST_CASE("Test example", "[demo]")
 {
     REQUIRE(true);
 }
